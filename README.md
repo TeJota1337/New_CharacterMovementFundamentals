@@ -1,5 +1,9 @@
 # Actualization for the Unity 6.2
+
 Att for this asset to work with Unity 6.2. It includes new scripts to work with Input System, replacemente for the prefabs with the new scripts and a folder with the Input Actions.
+
+Since Jan Ott turned this asset free for everyone, I made a fork of that and started to work with this amazing asset.
+This version keep the same open-source mind behind the original asset so feel free to download it too!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
